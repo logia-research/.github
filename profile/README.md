@@ -9,6 +9,9 @@ Our repositories are private while we build, so the absence of public activity h
 ---
 
 **Stage** Private development
+
 **Location** London, UK
+
 **Contact** contact@logiaresearch.com
+
 **Website** https://logiaresearch.com
